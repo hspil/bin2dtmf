@@ -5,5 +5,5 @@ A bit of python to turn binary data into an audio file of DTMF tones representin
 [DTMF](https://pypi.org/project/dtmf/): handled by venv.
 
 ## Usage
-`make install'
-`make run'
+`make install`
+`make run`
